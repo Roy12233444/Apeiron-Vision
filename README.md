@@ -1,5 +1,5 @@
 # Apeiron: Building India’s First "Living" AI from First Principles
-By Nexus Lab
+By Sourav Ray, Lead Architect @ Nexus Lab
 
 ![Apeiron Cover](Inside_of_Apeiron.png)
 
@@ -76,3 +76,5 @@ The Seed is planted. Watch it grow. 🌱🚀
 **Nexus Lab** is a sovereign research collective operating at the frontier of **Sovereign Intelligence**. We are not a startup; we are a movement. Our mission is to build a self-reliant technological ecosystem by engineering AI that is indigenous, decentralized, and mathematically elegant.
 
 *We build the future, so we don't have to import it.*
+
+Founded by Sourav Ray, aiming to restore India's technological sovereignty.
