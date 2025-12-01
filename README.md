@@ -1,7 +1,7 @@
 # Apeiron: Building India’s First "Living" AI from First Principles
 By Nexus Lab
 
-
+![Apeiron Cover](Inside_of_Apeiron.png)
 
 🇮🇳 The Vision: Sovereign AI, Not Just Wrappers
 In an era where most "new" AI startups are simply wrappers around OpenAI or Anthropic APIs, we asked a fundamental question: Can we build a Sovereign AI from scratch, on consumer hardware, without relying on Big Tech's cloud?
