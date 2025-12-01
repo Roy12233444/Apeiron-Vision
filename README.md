@@ -44,7 +44,9 @@ We replaced flat vector spaces with **Hyperbolic Geometry (Poincaré Ball)**, al
 *   **Pathos** (Empathy)
 *   **Ethos** (Ethics)
 
-The result is a highly rational model that can synthesize concepts across disciplines—connecting CRISPR gene editing with Space Exploration Ethics—without hallucinating nonsense.
+![Apeiron Architecture](<Architecture 5.png>)
+
+The result is a highly rational model that can synthesize concepts across disciplines.
 
 🙏 Acknowledgements
 This project stands on the shoulders of giants. We drew architectural inspiration from open-source innovations:
